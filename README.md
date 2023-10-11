@@ -2,6 +2,6 @@
 2342096
     I love [wikipedia](https://ja.wikipedia.org/)!
 
-    [テキスト](http://www.google.com)
+    [テキスト](https://www.google.co.jp/)
     
     
